@@ -7,7 +7,7 @@ Libraries for Animation similar to android native lockscreen.
 Steps:
 
 1) Open the project- new project-project from existing source
-2) Open GlowPad_Animation a project-(project from existing source)
+2) Open GlowPad_Animation->Lock Ex as project-(project from existing source)
 This would add 3 projects:
  1.SampleActivity- demo project of using and integrating the library on android.
  2.LS_anim
